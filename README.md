@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Software Testing.
 - 🌱 I’m currently learning GitHub, Jira."I want to learn many test automation tools and improve my skills by using these tools to perform automation tests."
 - 💞️ I’m looking to collaborate on  QA Engineers, QA Automation Engineers, Software Testers and Developers.
-- 📫 How to reach me https://www.linkedin.com/in/yi%C4%9Fit-%C3%A7am-6a024b155/
+- 📫 How to reach me https://www.linkedin.com/in/yigit-cam-6a024b155/
 - ⚡ Fun fact: Play football, tennis and running
 
 <!---

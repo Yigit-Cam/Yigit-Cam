@@ -9,3 +9,14 @@
 Yigit-Cam/Yigit-Cam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 📈 My Learning Progress
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yigit-Cam&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yigit-Cam&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigit-Cam&layout=compact&theme=radical" width="50%" />
+</p>
